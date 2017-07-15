@@ -6,4 +6,4 @@ gihub tutorial
 
 
 
-7/15/2017 4.28 PM Branch1 changes
+7/15/2017 4.28 PM Branch1 changes. Adding and modifying the same line can create conflicts
